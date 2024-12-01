@@ -1,16 +1,3 @@
 # lab_213003
 
-A new Flutter project for my lab1.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a basic Flutter application that displays a list of clothing items as cards on the home screen. It includes an AppBar with the student's index number and allows navigation to a details screen for each product, showing its name, image, description and price. The design and layout are simple and straightforward, aimed at demonstrating fundamental Flutter concepts like navigation, layout management and basic UI building. While the app is functional, it is quite basic and lacks advanced features or complex functionality.
