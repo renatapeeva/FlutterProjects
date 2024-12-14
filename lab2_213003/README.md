@@ -1,16 +1,4 @@
-# lab2_213003
+# Lab2_213003
+## Random Joke App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter app fetches and displays random jokes using the "https://official-joke-api.appspot.com/" API. The app features a main screen listing joke types as clickable cards, which lead to a screen displaying jokes of the selected type. Additionally, there is a "Random Joke of the Day" screen accessible via a button in the app bar. The project is organized into models, screens, widgets, and services, following a clean architecture.
